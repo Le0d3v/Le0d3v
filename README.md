@@ -1,5 +1,5 @@
-<div>
-  <img src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">
+<div id="first-section" align="center">
+  <img src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094" width="300" heigth="300">
 </div>
   
 
