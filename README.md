@@ -1,3 +1,8 @@
+<div>
+  <img src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">
+</div>
+  
+
 ### Hi there 👋
 
 <!--
