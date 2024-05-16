@@ -1,9 +1,10 @@
 <div id="first-section" align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47s9ftjs94mofz2wzwgk63milt15goje5soscuhots&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+  <h1>Hi, I'm Leonardo Torres 👋</h1>
+  <h2>Hi, I'm a Software Developer </h2>
 </div>
   
 
-### Hi there 👋
 
 <!--
 **Le0d3v/Le0d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
