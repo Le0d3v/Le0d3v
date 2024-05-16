@@ -4,9 +4,9 @@
   <p>
     I am an information technology student specialized in multiplatform software development. Passionate about art, music and technology,     with one year of experience working as a freelance developer   
   </p>
-  <br>
-  <p>🌐 Software Developer</p>
 </div>
+<br>
+<p>🌐 Software Developer</p>
 
 🌱 I’m currently learning <b>React.JS</b>
 
