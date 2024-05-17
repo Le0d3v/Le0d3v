@@ -19,6 +19,9 @@
     I am a passionate developer who loves doing his job and learning new tools for developing software. I have knowledge of backend and frontend development, knowing various programming      languages, frameworks and development tools.
   </p>
   <h2>My Skills</h2>
+  <p>👥 Teamwork</p> 
+  <p>📄 Code documentation</p> 
+  <p>👤 Autonomy</p> 
   <div>
     <h3>Programing Languages</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50">
