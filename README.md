@@ -19,4 +19,7 @@
     I am a passionate developer who loves doing his job and learning new tools for developing software. I have knowledge of backend and frontend development, knowing various programming      languages, frameworks and development tools.
   </p>
   <h2>My Skills</h2>
+  <div>
+    <img src="https://github.com/Le0d3v/Le0d3v/assets/136198686/a3315ef3-798c-4dd5-9b56-9b281c271aab" width="100">
+  </div>
 </div>
