@@ -23,7 +23,7 @@
   <p>📄 Code documentation</p> 
   <p>👤 Autonomy</p> 
   <div>
-    <h3>Programing Languages</h3>
+    <h3>Programing Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50">
