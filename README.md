@@ -7,7 +7,6 @@
 </div>
 <br>
 <p>🌐 Software Developer</p>
-
 🌱 I’m currently learning <b>React.JS</b> <br>
 🔭 I’m currently working as a freelance developer <br>
 👯 I’m looking to collaborate on GitHub Company
