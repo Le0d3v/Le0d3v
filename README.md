@@ -29,14 +29,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="100">
-    <br>
+    <br> <hr>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="100">
-    <br>
+    <br> <hr>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="100">
-    <br>
+    <br> <hr>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="100">
