@@ -20,6 +20,27 @@
   </p>
   <h2>My Skills</h2>
   <div>
+    <h3>Programing Languages</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="100">
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="100">
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="100">
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="100">
+    
   </div>
 </div>
