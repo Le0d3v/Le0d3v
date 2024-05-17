@@ -9,19 +9,15 @@
 <p>🌐 Software Developer</p>
 
 🌱 I’m currently learning <b>React.JS</b>
+🔭 I’m currently working as a freelance developer
+👯 I’m looking to collaborate on GitHub Company
 
-
-
-<!--
-**Le0d3v/Le0d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1>
+    About Me
+  </h1>
+  <p>
+    I am a passionate developer who loves doing his job and learning new tools for developing software. I have knowledge of backend and frontend development, knowing various programming      languages, frameworks and development tools.
+  </p>
+  <h2>My Skills</h2>
+</div>
