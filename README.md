@@ -20,6 +20,6 @@
   </p>
   <h2>My Skills</h2>
   <div>
-    <img src="https://github.com/Le0d3v/Le0d3v/assets/136198686/e99aa89b-5591-43f5-a1e1-38c48c4d457d" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="100">
   </div>
 </div>
