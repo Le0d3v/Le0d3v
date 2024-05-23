@@ -37,10 +37,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" width="50">
     
   </div>
 </div>
